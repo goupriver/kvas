@@ -1,5 +1,10 @@
 # Квас 
-# [Описание проекта](https://github.com/qzeleza/kvas/wiki/Описание-проекта)
+# [Описание проекта](https://github.com/qzeleza/kvas/wiki/Home)
+* [Список изменений](https://github.com/qzeleza/kvas/wiki#список-изменений)
+* [Текущие ограничения](https://github.com/qzeleza/kvas/wiki#текущие-ограничения)
+* [Возможности](https://github.com/qzeleza/kvas/wiki#возможности)
+
+
 # [Установка-пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
 
 * [Подготовка к установке](https://github.com/qzeleza/kvas/wiki/Установка-пакета#подготовительные-действия)
