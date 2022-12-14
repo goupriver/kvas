@@ -5,7 +5,7 @@
 * [Возможности](https://github.com/qzeleza/kvas/wiki#возможности)
 
 
-# [Установка пакета на устройство](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
+# [Установка пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
 
 * [Подготовка к установке](https://github.com/qzeleza/kvas/wiki/Установка-пакета#подготовительные-действия)
 * [Установка пакета на устройство](https://github.com/qzeleza/kvas/wiki/Установка-пакета#установка-пакета-на-устройство)
