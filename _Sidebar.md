@@ -1,6 +1,15 @@
 # Квас 
 # [Описание проекта](https://github.com/qzeleza/kvas/wiki/Описание-проекта)
 # [Установка-пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
+
+* [Подготовка к установке](https://github.com/qzeleza/kvas/wiki/Установка-пакета#подготовительные-действия)
+* [Установка пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета#установка-пакета)
+* [Удаление пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета#удаление-пакета)
+* [Диагностика](https://github.com/qzeleza/kvas/wiki/Установка-пакета#диагностика-в-случае-проблем)
+* [Использование AdGuard home с пакетом](https://github.com/qzeleza/kvas/wiki/Установка-пакета#использование-adguard-home-с-пакетом-квас)
+* [Примеры использования](https://github.com/qzeleza/kvas/wiki/Установка-пакета#примеры-использования)
+
+## [Описание команд](https://github.com/qzeleza/kvas/wiki/Описание-команд)
 * [Hастройка и удаление пакета](https://github.com/qzeleza/kvas/wiki/Описание-команд#настройка-и-удаление-пакета)
 * [Управление списками](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-списками)
 * [Работа с файловым списком](https://github.com/qzeleza/kvas/wiki/Описание-команд#работа-с-файловым-списком)
@@ -16,4 +25,3 @@
 * [Отладка](https://github.com/qzeleza/kvas/wiki/Описание-команд#отладка)
 * [Помощь](https://github.com/qzeleza/kvas/wiki/Описание-команд#помощь)
 
-## [Описание команд](https://github.com/qzeleza/kvas/wiki/Описание-команд)
