@@ -5,10 +5,10 @@
 * [Возможности](https://github.com/qzeleza/kvas/wiki#возможности)
 
 
-# [Установка-пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
+# [Установка пакета на устройство](https://github.com/qzeleza/kvas/wiki/установка-пакета-на-устройство)
 
 * [Подготовка к установке](https://github.com/qzeleza/kvas/wiki/Установка-пакета#подготовительные-действия)
-* [Установка пакета на устройство](https://github.com/qzeleza/kvas/wiki/Установка-пакета#установка-пакета-на-устройство)
+* [Установка пакета на устройство](https://github.com/qzeleza/kvas/wiki/Установка-пакета#установка-пакета)
 * [Удаление пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета#удаление-пакета)
 * [Диагностика](https://github.com/qzeleza/kvas/wiki/Установка-пакета#диагностика-в-случае-проблем)
 * [Использование AdGuard home с пакетом](https://github.com/qzeleza/kvas/wiki/Установка-пакета#использование-adguard-home-с-пакетом-квас)
