@@ -14,7 +14,7 @@
 * [Использование AdGuard home с пакетом](https://github.com/qzeleza/kvas/wiki/Установка-пакета#использование-adguard-home-с-пакетом-квас)
 * [Примеры использования](https://github.com/qzeleza/kvas/wiki/Установка-пакета#примеры-использования)
 
-## [Описание команд](https://github.com/qzeleza/kvas/wiki/Описание-команд)
+# [Описание команд](https://github.com/qzeleza/kvas/wiki/Описание-команд)
 * [Hастройка и удаление пакета](https://github.com/qzeleza/kvas/wiki/Описание-команд#настройка-и-удаление-пакета)
 * [Управление списками](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-списками)
 * [Работа с файловым списком](https://github.com/qzeleza/kvas/wiki/Описание-команд#работа-с-файловым-списком)
