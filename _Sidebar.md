@@ -19,7 +19,7 @@
 * [Управление списками](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-списками)
 * [Работа с файловым списком](https://github.com/qzeleza/kvas/wiki/Описание-команд#работа-с-файловым-списком)
 * [Управление обновлениями маршрутов](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-обновлениями-маршрутов)
-* [AdGuard Home](https://github.com/qzeleza/kvas/wiki/Описание-команд#adguard-home)
+* [Работа с AdGuard Home](https://github.com/qzeleza/kvas/wiki/Описание-команд#adguard-home)
 * [Блокировка рекламы](https://github.com/qzeleza/kvas/wiki/Описание-команд#блокировка-рекламы)
 * [Шифрование dns запросов](https://github.com/qzeleza/kvas/wiki/Описание-команд#шифрование-dns-запросов)
 * [Интерфейсы](https://github.com/qzeleza/kvas/wiki/Описание-команд#интерфейсы)
