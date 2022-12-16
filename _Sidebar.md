@@ -17,7 +17,7 @@
 # [Описание команд](https://github.com/qzeleza/kvas/wiki/Описание-команд)
 * [Hастройка и удаление пакета](https://github.com/qzeleza/kvas/wiki/Описание-команд#настройка-и-удаление-пакета)
 * [Управление списками](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-списками)
-* [Работа с файловым списком](https://github.com/qzeleza/kvas/wiki/Описание-команд#работа-с-файловым-списком)
+* [управление 'Белым списком'](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-белым-списком)
 * [Управление обновлениями маршрутов](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-обновлениями-маршрутов)
 * [Работа с AdGuard Home](https://github.com/qzeleza/kvas/wiki/Описание-команд#adguard-home)
 * [Блокировка рекламы](https://github.com/qzeleza/kvas/wiki/Описание-команд#блокировка-рекламы)
