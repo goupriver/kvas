@@ -4,6 +4,7 @@
 * [Список изменений](https://github.com/qzeleza/kvas/wiki#список-изменений)
 * [Текущие ограничения](https://github.com/qzeleza/kvas/wiki#текущие-ограничения)
 * [Новости и форум](https://github.com/qzeleza/kvas/wiki/Home/_edit#новости-о-проекте-и-форум)
+* [Используемое ПО](https://github.com/qzeleza/kvas/wiki#используемые-в-проекте-продукты)
 
 
 # [Установка пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
