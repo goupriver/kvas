@@ -13,7 +13,7 @@
 * [Установка пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета#установка-пакета-на-устройство)
 * [Удаление пакета](https://github.com/qzeleza/kvas/wiki/Установка-пакета#удаление-пакета)
 * [Диагностика](https://github.com/qzeleza/kvas/wiki/Установка-пакета#диагностика-в-случае-проблем)
-* [Использование AdGuardHome](https://github.com/qzeleza/kvas/wiki/Установка-пакета#использование-adguard-home-с-пакетом-квас)
+* [AdGuardHome + Квас](https://github.com/qzeleza/kvas/wiki/Установка-пакета#использование-adguard-home-с-пакетом-квас)
 * [Примеры](https://github.com/qzeleza/kvas/wiki/Установка-пакета#примеры-использования)
 
 # [Описание команд](https://github.com/qzeleza/kvas/wiki/Описание-команд)
