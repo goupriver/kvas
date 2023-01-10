@@ -48,4 +48,4 @@
 - Для проведения тестов, в проекте используется пакет [BATS](https://github.com/bats-core/bats-core/blob/master/LICENSE.md) от нескольких [АВТОРОВ](https://github.com/bats-core/bats-core/blob/master/AUTHORS).
 
 ## Навигация
-- Далее -->> [Установка](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
+- [ **-->> Установка**](https://github.com/qzeleza/kvas/wiki/Установка-пакета)
