@@ -3,8 +3,8 @@
 * [Возможности](https://github.com/qzeleza/kvas/wiki#возможности)
 * [Список изменений](https://github.com/qzeleza/kvas/wiki#список-изменений)
 * [Текущие ограничения](https://github.com/qzeleza/kvas/wiki#текущие-ограничения)
-* [Новости и форум](https://github.com/qzeleza/kvas/wiki/Home/#новости-о-проекте-и-форум)
-* [Помощь проекту](https://github.com/qzeleza/kvas/wiki/Home/#помощь-проекту)
+* [Новости и форум](https://github.com/qzeleza/kvas/wiki#новости-о-проекте-и-форум)
+* [Помощь проекту](https://github.com/qzeleza/kvas/wiki#помощь-проекту)
 * [Используемое ПО](https://github.com/qzeleza/kvas/wiki#используемые-в-проекте-продукты)
 
 
