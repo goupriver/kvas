@@ -43,6 +43,10 @@
 ## Новости о проекте и форум
 - Последние новости о пакете, комментарии и пожелания можно узнать и обсудить на форуме компании Keenetic - [forum.keenetic.com](https://forum.keenetic.com/topic/14415-%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B5%D0%BC-%D0%BA%D0%B2%D0%B0%D1%81-shadowsocks-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5-vpn-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B)
 
+## Помощь проекту
+Лучшей поддержкой проекта будет Ваше участие в нем. Заявку на участие отправляйте на **kvas @ zeleza.ru**.
+Если сейчас, нет возможности помочь своей энергией, то энергия денег принимается на [этот кошелек ЮМани](https://yoomoney.ru/to/4100117756734493).
+
 ## Используемые в проекте продукты
 - Разработка проекта ведется на IDE от компании [JetBrains](https://www.jetbrains.com/ru-ru/).
 - Для проведения тестов, в проекте используется пакет [BATS](https://github.com/bats-core/bats-core/blob/master/LICENSE.md) от нескольких [АВТОРОВ](https://github.com/bats-core/bats-core/blob/master/AUTHORS).
