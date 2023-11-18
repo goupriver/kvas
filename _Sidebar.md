@@ -25,7 +25,7 @@
 * [Работа с AdGuard Home](https://github.com/qzeleza/kvas/wiki/Описание-команд#adguard-home)
 * [Блокировка рекламы](https://github.com/qzeleza/kvas/wiki/Описание-команд#блокировка-рекламы)
 * [Шифрование DNS](https://github.com/qzeleza/kvas/wiki/Описание-команд#шифрование-dns-запросов)
-* [Подключение гостей](https://github.com/qzeleza/kvas/wiki/Описание-команд#Подключение-гостевых-интерфейсов)
+* [Подключение гостей](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-vpn-соединениями)
 * [Управление DNS](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-dns)
 * [Управление VPN](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-vpn-соединениями)
 * [Управление Shadowsocks](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-shadowsocks-соедиением)
