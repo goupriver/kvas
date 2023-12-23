@@ -40,3 +40,4 @@
 * [Отладка](https://github.com/qzeleza/kvas/wiki/Описание-команд#отладка)
 * [Помощь](https://github.com/qzeleza/kvas/wiki/Описание-команд#помощь)
 
+# Диагностика
