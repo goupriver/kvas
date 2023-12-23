@@ -40,4 +40,7 @@
 * [Отладка](https://github.com/qzeleza/kvas/wiki/Описание-команд#отладка)
 * [Помощь](https://github.com/qzeleza/kvas/wiki/Описание-команд#помощь)
 
-# Диагностика
+# [Диагностика](https://github.com/qzeleza/kvas/wiki/Диагностика#диагностика-проблем)
+* [Общая диагностика](https://github.com/qzeleza/kvas/wiki/Диагностика#общая-диагностика)
+* [Диагностика гостевых сетей](https://github.com/qzeleza/kvas/wiki/Диагностика#диагностика-гостевых-сетей-и-их-клиентов)
+* [Публикация ошибок](https://github.com/qzeleza/kvas/wiki/Диагностика#публикация-ошибок)
