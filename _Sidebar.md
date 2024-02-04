@@ -29,7 +29,7 @@
 * [Настроить/удалить/обновить](https://github.com/qzeleza/kvas/wiki/Описание-команд#настройка-и-удаление-пакета)
 * [Добавить/Удалить](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-белым-списком)
 * [Сохранить/Загрузить](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-экспортомимпортом)
-* [Управление обновлениями](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-обновлениями-маршрутов)
+* [Сброс маршрутов](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-обновлениями-маршрутов)
 * [Работа с AdGuard Home](https://github.com/qzeleza/kvas/wiki/Описание-команд#adguard-home)
 * [Блокировка рекламы](https://github.com/qzeleza/kvas/wiki/Описание-команд#блокировка-рекламы)
 * [Шифрование DNS](https://github.com/qzeleza/kvas/wiki/Описание-команд#шифрование-dns-запросов)
