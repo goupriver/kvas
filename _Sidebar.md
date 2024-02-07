@@ -21,7 +21,7 @@
 # [Эффективная работа](https://github.com/qzeleza/kvas/wiki/Эффективная-работа)
 * [Базовые процедуры](https://github.com/qzeleza/kvas/wiki/Эффективная-работа#базовые-процедуры)
 * [Добавление сайта](https://github.com/qzeleza/kvas/wiki/Эффективная-работа#последовательность-добавления-доменных-имен-для-определенного-сайта)
-* [Сканирование VPN подключений](https://github.com/qzeleza/kvas/wiki/Эффективная-работа#повторное-сканирование-vpn-подключений)
+* [Сканирование подключений](https://github.com/qzeleza/kvas/wiki/Эффективная-работа#повторное-сканирование-vpn-подключений)
 * [Подключение клиентов](https://github.com/qzeleza/kvas/wiki/Эффективная-работа#подключение-клиентов-имеющейся-wifi-сетей-и-vpn-серверов-ikev2)
 * [Тестирование](https://github.com/qzeleza/kvas/wiki/Эффективная-работа#тестирование-и-порой-восстановление-доступа-можно-осуществить-тремя-командами)
 
@@ -36,7 +36,7 @@
 * [Блокировка рекламы](https://github.com/qzeleza/kvas/wiki/Описание-команд#блокировка-рекламы)
 * [Шифрование DNS](https://github.com/qzeleza/kvas/wiki/Описание-команд#шифрование-dns-запросов)
 * [Управление DNS](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-dns)
-* [Управление VPN и гостевыми сетями](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-vpn-соединениями)
+* [Управление подключениями](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-vpn-соединениями)
 * [Управление Shadowsocks](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-shadowsocks-соедиением)
 * [Управление dnsmasq](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-dnsmasq)
 * [Отладка](https://github.com/qzeleza/kvas/wiki/Описание-команд#отладка)
