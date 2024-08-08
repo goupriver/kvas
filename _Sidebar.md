@@ -31,6 +31,7 @@
 * [Обновить пакет](https://github.com/qzeleza/kvas/wiki/Описание-команд#обновление-пакета)
 * [Откатить пакет](https://github.com/qzeleza/kvas/wiki/Описание-команд#откат-пакета-на-предыдущие-версии)
 * [Хост добавить/удалить](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-белым-списком)
+* [Файл /opt/etc/hosts](https://github.com/qzeleza/kvas/wiki/Описание-команд#редактирование-файла-optetchosts)
 * [Сохранить/Загрузить](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-экспортомимпортом)
 * [Сброс маршрутов](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-обновлениями-маршрутов)
 * [Работа с AdGuard Home](https://github.com/qzeleza/kvas/wiki/Описание-команд#adguard-home)
