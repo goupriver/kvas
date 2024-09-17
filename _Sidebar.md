@@ -35,7 +35,7 @@
 * [Хост добавить/удалить](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-белым-списком)
 * [Работа с заквасками](https://github.com/qzeleza/kvas/wiki/Описание-команд#работа-с-заквасками-работает-только-с-версии-119-)
 * [Временная приостановка](https://github.com/qzeleza/kvas/wiki/Описание-команд#временная-остановказапуск-кваса-работает-только-с-версии-119-)
-* [Файл /opt/etc/hosts](https://github.com/qzeleza/kvas/wiki/Описание-команд#редактирование-файла-optetchosts)
+* [Файл /opt/etc/hosts](https://github.com/qzeleza/kvas/wiki/Описание-команд#работа-с-системным--файлом-optetchosts)
 * [Сохранить/Загрузить](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-экспортомимпортом)
 * [Сброс маршрутов](https://github.com/qzeleza/kvas/wiki/Описание-команд#управление-обновлениями-маршрутов)
 * [Работа с AdGuard Home](https://github.com/qzeleza/kvas/wiki/Описание-команд#adguard-home)
